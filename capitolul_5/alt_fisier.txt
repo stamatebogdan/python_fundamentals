@@ -1,0 +1,1 @@
+Am creat un nou fisier cu ajutorul Context Manager

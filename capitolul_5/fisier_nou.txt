@@ -1,0 +1,18 @@
+Primul fisier scris in Python. 
+Continuarea textului din fisierul meu. 
+Text pe a doua linie din fisierul meu. 
+Ultima linie din fisierul meu.
+o noua linie adaugata in fisierul meu.
+linie noua la finalul fisierului. 
+:)
+
+
+o noua linie adaugata in fisierul meu.
+linie noua la finalul fisierului. 
+:)
+:(
+
+o noua linie adaugata in fisierul meu.
+linie noua la finalul fisierului. 
+:)
+:(
